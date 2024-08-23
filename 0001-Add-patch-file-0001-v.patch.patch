@@ -1,0 +1,38 @@
+From 2a87ee119f6b55fb6032950770249f5da909067e Mon Sep 17 00:00:00 2001
+From: GT-777 <gevortopchyan@mail.ru>
+Date: Thu, 22 Aug 2024 20:06:20 +0400
+Subject: [PATCH] Add patch file 0001-v.patch
+
+---
+ 0001-v.patch | 19 +++++++++++++++++++
+ 1 file changed, 19 insertions(+)
+ create mode 100644 0001-v.patch
+
+diff --git a/0001-v.patch b/0001-v.patch
+new file mode 100644
+index 0000000..0def301
+--- /dev/null
++++ b/0001-v.patch
+@@ -0,0 +1,19 @@
++From 688906fb28361f3a5af490009884cbec0a504616 Mon Sep 17 00:00:00 2001
++From: GT-777 <gevortopchyan@mail.ru>
++Date: Thu, 22 Aug 2024 19:12:23 +0400
++Subject: [PATCH] v
++
++---
++ v | 2 +-
++ 1 file changed, 1 insertion(+), 1 deletion(-)
++
++diff --git a/v b/v
++index 3b1bd4f..b10dac9 100644
++--- a/v
+++++ b/v
++@@ -1 +1 @@
++-dnfnndskd:
+++sndndnfnndskd:
++-- 
++2.42.0.windows.2
++
+-- 
+2.42.0.windows.2
+
